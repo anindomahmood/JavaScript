@@ -46,3 +46,18 @@ let student2 =
 console.log("Student Name: " + student2.name);
 console.log("Student Age: " + student2.age);
 console.log("Student ID: " + student2.id);
+
+const num1=10;
+const num2=10;
+
+console.log("Sum: ", num1+num2);
+
+const num3="10";
+const num4=10;
+
+console.log("Adding String: ", num3+num4);
+
+const num5=10;
+const num6="20";
+
+console.log("Exception: ", num5-num6);
